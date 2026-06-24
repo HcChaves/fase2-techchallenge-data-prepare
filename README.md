@@ -3,9 +3,13 @@ Pipeline híbrido batch+streaming de ingestão de dados para análise da alfabet
 
 Contexto do problema;
 ● Explicação do desafio educacional e do uso do indicador de alfabetização;
+
 ● Arquitetura proposta;
+
 ● Descrição da arquitetura da solução;
+
 ● Diagrama da pipeline;
+
 ● Fluxo de dados.
 
 # Contexto
