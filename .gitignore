@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados locais
+*.parquet
+*.csv
+
+# Ambiente virtual
+venv/
+.env
+
+# Spark
+spark-warehouse/
+
+# Sistema
+.DS_Store
