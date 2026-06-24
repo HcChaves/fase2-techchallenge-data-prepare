@@ -28,7 +28,7 @@ Fonte de dados: Indicador Criança Alfabetizada - Base dos Dados (https://basedo
 - Batch vs streaming
 - Lake House DB
 - Medalhão Bronze, Silver e Gold
-- Plataforma: Azure + Databricks ... Working In Progress
+- Plataforma: AWS ... Working In Progress
 - Monitoramento e FinOps
   
   Como o pipeline é monitorado; Como os custos são controlados.
