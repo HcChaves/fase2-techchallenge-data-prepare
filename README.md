@@ -2,10 +2,15 @@
 Pipeline híbrido batch+streaming de ingestão de dados para análise da alfabetização no Brasil, arquitetura medalhão (Bronze, Silver e Gold), monitoramento e FinOps utilizando AWS.
 
 Contexto do problema;
+
 ● Explicação do desafio educacional e do uso do indicador de alfabetização;
+
 ● Arquitetura proposta;
+
 ● Descrição da arquitetura da solução;
+
 ● Diagrama da pipeline;
+
 ● Fluxo de dados.
 
 # Contexto
